@@ -16,37 +16,13 @@ I'm an aspiring AI Product Manager passionate about leveraging cutting-edge AI t
 - **Prompt Engineering** - Crafting effective prompts for LLMs and AI systems
 - **Technical Acumen** - Understanding AI/ML architectures, limitations, and capabilities
 
-## 📁 Repository Structure
-
-```
-awesome-prompts/          # Curated collection of AI prompts and templates
-├── prompts/             # Various specialized AI prompts
-│   ├── Professional Coder.md
-│   ├── Academic Assistant Pro.md
-│   ├── All-around Writer.md
-│   ├── AutoGPT.md
-│   ├── SuperPrompt.md
-│   └── ... (more prompts)
-└── papers/              # Research papers and documentation
-
-projects/                 # AI projects and experiments
-├── LLM Playground.html   # Interactive LLM testing environment
-└── Gemini Created Gemini-2.5-flash-lite.html
-```
 
 ## 🚀 Key Projects
-
-### Awesome Prompts Collection
-A comprehensive library of optimized AI prompts and system prompts for various use cases:
-- **Professional Development** - Coder, Writer, Teacher, and Consultant prompts
-- **Specialized Roles** - Academic Assistant, Literature Professor, DND Master
-- **Advanced Systems** - AutoGPT, SuperPrompt, Meta-prompt frameworks
-- **Practical Tools** - PDF Translator, Prompt Creator, QuickSilver OS
 
 ### LLM Playground
 An interactive environment for testing and experimenting with different LLM models and prompt variations.
 
-## 💡 Key Insights & Expertise
+## 💡 Key Insights & Skills
 
 - **Prompt Engineering** - Mastered the art of crafting effective prompts to unlock full AI potential
 - **Multi-model Experimentation** - Experience with GPT, Claude, Gemini, and other LLMs
@@ -60,7 +36,6 @@ An interactive environment for testing and experimenting with different LLM mode
 - AI/ML Frameworks and Libraries
 - Product Management Tools
 - Data Analytics Platforms
-- Version Control Systems
 
 ## 📚 Learning & Development
 
@@ -86,7 +61,6 @@ Feel free to reach out and connect!
 - LinkedIn: [Jeevesh Shah] (www.linkedin.com/in/jeevesh-shah-9262ba344)
 - Email: [shahjeevesh25@gmail.com]
 
-## �📝 License
 
 This repository is open to exploration and learning. Please refer to the [LICENSE](LICENSE) file for detailed information.
 
